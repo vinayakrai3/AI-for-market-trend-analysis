@@ -59,7 +59,7 @@ The following supporting artifacts are submitted as per the official guidelines:
   < (https://docs.google.com/document/d/1xXF3XGGJzjod1XPLb0sErNUdxeTlvSWlDOxo2e6wRZ8/edit?usp=sharing)>
 
 - 📊 **Project Presentation (Google Slides):**  
-  <PASTE GOOGLE SLIDES LINK HERE>
+  <(https://docs.google.com/presentation/d/1JjqhazImYElad3GVP_lDcD-x2vymGK4bn3fr5snluFY/edit?usp=sharing)>
 
 - 🎥 **Demonstration Video (Google Drive – video file link):**  
   <PASTE GOOGLE DRIVE VIDEO FILE LINK HERE>
