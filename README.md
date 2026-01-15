@@ -56,7 +56,7 @@ The model achieves performance slightly above random guessing when evaluated usi
 The following supporting artifacts are submitted as per the official guidelines:
 
 - 📄 **Project Report (Google Docs):**  
- [ <PASTE GOOGLE DOCS LINK HERE>](https://docs.google.com/document/d/1xXF3XGGJzjod1XPLb0sErNUdxeTlvSWlDOxo2e6wRZ8/edit?usp=sharing)
+  <PASTE (https://docs.google.com/document/d/1xXF3XGGJzjod1XPLb0sErNUdxeTlvSWlDOxo2e6wRZ8/edit?usp=sharing)>
 
 - 📊 **Project Presentation (Google Slides):**  
   <PASTE GOOGLE SLIDES LINK HERE>
