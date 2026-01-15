@@ -1,3 +1,25 @@
+# AI for Market Trend Analysis  
+### Stock Trend Prediction using NVIDIA (NVDA)
+
+## Overview
+This project applies basic machine learning techniques to analyze historical stock price data and predict short-term market trends. Using daily price data of NVIDIA (NVDA) over the last five years, a supervised learning model is trained to classify whether the stock price will move upward or downward on the next trading day.
+
+The primary goal of this project is educational: to demonstrate how AI techniques can be applied to market trend analysis using publicly available data.
+
+---
+
+## Primary Evaluation Artifact
+- **`notebook.ipynb`**  
+  This Jupyter Notebook is the **main and primary evaluation artifact**.  
+  It contains the complete project workflow, including:
+  - Problem definition
+  - Data collection and preprocessing
+  - Feature engineering
+  - Model training and evaluation
+  - Ethical considerations
+  - Conclusion and future scope
+
+The notebook is designed to run **top-to-bottom without errors**.
 
 ---
 
@@ -33,4 +55,3 @@ All links are shared with permission set to **“Anyone with the link → Viewer
 
 ## Author
 Vinayak Rai  
-BS–MS Physics, IISER Mohali
