@@ -62,7 +62,7 @@ The following supporting artifacts are submitted as per the official guidelines:
   <(https://docs.google.com/presentation/d/1JjqhazImYElad3GVP_lDcD-x2vymGK4bn3fr5snluFY/edit?usp=sharing)>
 
 - 🎥 **Demonstration Video (Google Drive – video file link):**  
-  <https://drive.google.com/file/d/1WbHMlDbCzqPaHUvY1Iv2HIS7fjp5p-sf/view?usp=sharing>
+  <(https://drive.google.com/file/d/1WbHMlDbCzqPaHUvY1Iv2HIS7fjp5p-sf/view?usp=sharing)>
 
 All links are shared with permission set to **“Anyone with the link → Viewer”**.
 
